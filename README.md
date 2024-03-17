@@ -20,31 +20,31 @@ src="https://img.shields.io/twitter/follow/sykiraah?logo=twitter&style=for-the-b
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/anggurgrape" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/sykiraah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/sykiraah_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/sykiraah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ 
 
 <h1 > Education Journey </h1>
 - University Technology of Malaysia , Skudai (2023 - present)
-- Matrikulasi Pahang (2022-2023)
+<br>- Matrikulasi Pahang (2022-2023)</br>
   <p> MODUL SAINS FIZIKAL - CGPA : 4.00 </p>
 - SMK Muadzam Shah (2017 - 2021)
   <p> SPM - 6A </p>  
 - SK Bukit Ridan (2011 - 2016)
    
 <h1 > Positions I Held </h1>
-- 2016-2017: Secondary School Librarian
-- 2017-2018: Secondary School Librarian
-- 2018-2019: Secondary School Librarian
+<br>- 2016-2017: Secondary School Librarian
+<br>- 2017-2018: Secondary School Librarian
+<br>- 2018-2019: Secondary School Librarian
 
 <h1 > Soft Skills </h1>
-- Communication
-- Creativity
-- Adaptability
+- Communication</n>
+- Creativity</n>
+- Adaptability</n>
    
 <h1 > Awards and Achievement </h1>
-- Volleyball Vice Chairman 2021: SMK Muadzam Shah
-- United Nations Plastic Tide Turners Challenge Badge: Champion Level
-- Matriculation Science Carnival (MASCar): Third Place
-- Matriculation Jamboree Program Matrikulasi KPM: volunteer AJK
-- Kuiz Kimia Kebangsaan
-- Vlog Solo Camping Maze Orienteering: Vice Chairman
+- Volleyball Vice Chairman 2021: SMK Muadzam Shah</n>
+- United Nations Plastic Tide Turners Challenge Badge: Champion Level</n>
+- Matriculation Science Carnival (MASCar): Third Place</n>
+- Matriculation Jamboree Program Matrikulasi KPM: volunteer AJK</n>
+- Kuiz Kimia Kebangsaan</n>
+- Vlog Solo Camping Maze Orienteering: Vice Chairman</n>
 
