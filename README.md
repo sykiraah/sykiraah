@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 UTM Student
 -----------
 
-During my primary school years, I was introduced to the field of computer science and was taught about the various components that constitute a computer system, as well as its basic functionality. Later, in my secondary school, I was exposed to topics like Scratch and HTML during the first year and then progressed to learning Python in the subsequent years. My education in computer science continued as I studied Java for three years, culminating in my foundation studies at Kolej Matrikulasi Pahang. Currently, I am pursuing a degree in Network and Security at Universiti Teknologi Malaysia, where I am also expanding my knowledge of C++.
+During my primary school years, I was introduced to the field of computer science and was taught about the various components that constitute a computer system, as well as its basic functionality. Later, in secondary school, I was exposed to topics like Scratch and HTML during the first year and then progressed to learning Python in the subsequent years. My education in computer science continued as I studied Java for three years, culminating in my foundation studies at Kolej Matrikulasi Pahang. Currently, I am pursuing a degree in Network and Security at Universiti Teknologi Malaysia, where I am also expanding my knowledge of C++.
 
 * 🌍  I'm based in Johor
 * ✉️  You can contact me at [syakirahadilah6@gmail.com](mailto:syakirahadilah6@gmail.com)
@@ -36,15 +36,15 @@ src="https://img.shields.io/twitter/follow/sykiraah?logo=twitter&style=for-the-b
 <br>- 2018-2019: Secondary School Librarian
 
 <h1 > Soft Skills </h1>
-- Communication</n>
-- Creativity</n>
-- Adaptability</n>
+<br>- Communication
+<br>- Creativity
+<br>- Adaptability
    
 <h1 > Awards and Achievement </h1>
-- Volleyball Vice Chairman 2021: SMK Muadzam Shah</n>
-- United Nations Plastic Tide Turners Challenge Badge: Champion Level</n>
-- Matriculation Science Carnival (MASCar): Third Place</n>
-- Matriculation Jamboree Program Matrikulasi KPM: volunteer AJK</n>
-- Kuiz Kimia Kebangsaan</n>
-- Vlog Solo Camping Maze Orienteering: Vice Chairman</n>
+<br>- Volleyball Vice Chairman 2021: SMK Muadzam Shah
+<br>- United Nations Plastic Tide Turners Challenge Badge: Champion Level
+<br>- Matriculation Science Carnival (MASCar): Third Place
+<br>- Matriculation Jamboree Program Matrikulasi KPM: volunteer AJK
+<br>- Kuiz Kimia Kebangsaan</n>
+<br>- Vlog Solo Camping Maze Orienteering: Vice Chairman
 
