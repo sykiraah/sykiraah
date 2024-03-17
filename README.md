@@ -23,25 +23,25 @@ src="https://img.shields.io/twitter/follow/sykiraah?logo=twitter&style=for-the-b
  
 
 <h1 > Education Journey </h1>
-- University Technology of Malaysia , Skudai (2023 - present)
-<br>- Matrikulasi Pahang (2022-2023)</br>
-  <p> MODUL SAINS FIZIKAL - CGPA : 4.00 </p>
+- University Technology of Malaysia, Skudai (2023 - present)</n>
+<br>- Matrikulasi Pahang (2022-2023)
+  <p>    MODUL SAINS FIZIKAL - CGPA : 4.00 </p>
 - SMK Muadzam Shah (2017 - 2021)
-  <p> SPM - 6A </p>  
+  <p>    SPM - 6A </p>  
 - SK Bukit Ridan (2011 - 2016)
    
 <h1 > Positions I Held </h1>
-<br>- 2016-2017: Secondary School Librarian
+- 2016-2017: Secondary School Librarian
 <br>- 2017-2018: Secondary School Librarian
 <br>- 2018-2019: Secondary School Librarian
 
 <h1 > Soft Skills </h1>
-<br>- Communication
+- Communication
 <br>- Creativity
 <br>- Adaptability
    
 <h1 > Awards and Achievement </h1>
-<br>- Volleyball Vice Chairman 2021: SMK Muadzam Shah
+- Volleyball Vice Chairman 2021: SMK Muadzam Shah
 <br>- United Nations Plastic Tide Turners Challenge Badge: Champion Level
 <br>- Matriculation Science Carnival (MASCar): Third Place
 <br>- Matriculation Jamboree Program Matrikulasi KPM: volunteer AJK
